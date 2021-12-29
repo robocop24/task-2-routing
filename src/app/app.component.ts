@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'task-2-routing';
+  bg_image:string = "assets/img/background.png"
 }

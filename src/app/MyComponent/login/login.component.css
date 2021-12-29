@@ -1,0 +1,47 @@
+
+
+#contact-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 34px;
+}
+
+#contact-box input,
+#contact-box textarea{
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 9px;
+    font-size: 1.1rem;
+}
+#contact-box form{
+    width: 40%;
+}
+#contact-box label{
+    font-size: 1.3rem;
+    font-family: 'Bree Serif', serif;
+    color: rgb(233, 245, 234);
+}
+
+#contact-box button{
+    padding: 6px 20px;
+    border: 2px solid white;
+    background-color: rgb(130, 205, 240);
+    color: rgb(53, 21, 21);
+    margin: 17px;
+    font-size: 1.5rem;
+    border: 2px black solid;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#gho{
+    color: rgb(233, 245, 234);
+    display: block;
+    padding: 3px 22px;
+    border-radius: 20px;
+    text-decoration: none; /*remove underLine*/
+    cursor: pointer;
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 1.6rem;
+}
